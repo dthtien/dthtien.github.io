@@ -2,11 +2,11 @@
 Clean code should be pleasing to read. Reading it should make you smile the way a well-crafted music box or well-designed car would.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif" alt="funny"/>
+  <img src="https://user-images.githubusercontent.com/20236616/111248241-1b5a6200-863c-11eb-940c-b8dec17c6573.png" alt="funny"/>
 </p>
 
 <p align="center">
-  Source: <a href="https://giphy.com/">Giphy</a>
+  Source: <a href="https://github.com/xluffy/til">xluffy/til</a>
 </p>
 
 
