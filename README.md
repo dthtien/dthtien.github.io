@@ -7,7 +7,6 @@ Clean code should be pleasing to read. Reading it should make you smile the way 
 
 ### Email: tiendt2311@gmail.com
 ### Linkedin: [dthtien](https://www.linkedin.com/in/dthtien/)
-### Curriculum Vitae: [dthtien](https://toplands.tech/app/cv)
 ### Education: Engineer's degree
   - Viet Nam National University HCMC - University Of Information
 Technology
