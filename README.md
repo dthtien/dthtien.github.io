@@ -1,14 +1,9 @@
 # Dau The Tien - Full-stack developer( __React/Rails__)
 Clean code should be pleasing to read. Reading it should make you smile the way a well-crafted music box or well-designed car would.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20236616/111248241-1b5a6200-863c-11eb-940c-b8dec17c6573.png" alt="funny"/>
-</p>
+![dthtien's GitHub stats](https://github-readme-stats.vercel.app/api?username=dthtien&show_icons=true&theme=nord)
 
-<p align="center">
-  Source: <a href="https://github.com/xluffy/til">xluffy/til</a>
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dthtien&show_icons=true&theme=nord)
 
 ### Email: tiendt2311@gmail.com
 ### Linkedin: [dthtien](https://www.linkedin.com/in/dthtien/)
@@ -21,3 +16,10 @@ Technology
 ### Certificate
   - TOEIC 815
   - Web security with the OWASP testing framework
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20236616/111248241-1b5a6200-863c-11eb-940c-b8dec17c6573.png" alt="funny"/>
+</p>
+
+<p align="center">
+  Source: <a href="https://github.com/xluffy/til">xluffy/til</a>
+</p>
