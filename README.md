@@ -1,4 +1,4 @@
-# Dau The Tien - Full-stack developer( __React/Rails__)
+# Dau The Tien - Software Engineer
 Clean code should be pleasing to read. Reading it should make you smile the way a well-crafted music box or well-designed car would.
 
 ![dthtien's GitHub stats](https://github-readme-stats.vercel.app/api?username=dthtien&show_icons=true&theme=nord)
