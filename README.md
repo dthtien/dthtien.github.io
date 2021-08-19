@@ -3,8 +3,6 @@ Clean code should be pleasing to read. Reading it should make you smile the way 
 
 ![dthtien's GitHub stats](https://github-readme-stats.vercel.app/api?username=dthtien&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dthtien&show_icons=true&theme=nord)
-
 ### Email: tiendt2311@gmail.com
 ### Linkedin: [dthtien](https://www.linkedin.com/in/dthtien/)
 ### Education: Engineer's degree
