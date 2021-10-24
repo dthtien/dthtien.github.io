@@ -1,6 +1,6 @@
 # Dau The Tien - Software Engineer
 
-Make it work, make it right, make it fast - Kent Beck
+*Make it work, make it right, make it fast* - **Kent Beck**
 
 ### Email: tiendt2311@gmail.com
 ### Linkedin: [dthtien](https://www.linkedin.com/in/dthtien/)
