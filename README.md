@@ -4,6 +4,7 @@ Make it work, make it right, make it fast - Kent Beck
 
 ### Email: tiendt2311@gmail.com
 ### Linkedin: [dthtien](https://www.linkedin.com/in/dthtien/)
+### [Curriculum vitae](./files/cv.pdf)
 ### Education: Engineer's degree
   - Viet Nam National University HCMC - University Of Information
 Technology
