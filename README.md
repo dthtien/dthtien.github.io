@@ -4,7 +4,7 @@
 
 ### Email: tiendt2311@gmail.com
 ### Linkedin: [dthtien](https://www.linkedin.com/in/dthtien/)
-### Curriculum vitae: [dthtien](./files/cv.pdf)
+### More information: https://www.tcyrus.dev/
 ### Education: Engineer's degree
   - Viet Nam National University HCMC - University Of Information
 Technology
