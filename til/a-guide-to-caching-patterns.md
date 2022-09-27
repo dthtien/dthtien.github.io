@@ -62,7 +62,7 @@ source: hazelcast.com
 
 ## Summary
 
-| pattern | consider | cons|
+| Pattern | Consider | Cons|
 |-------|------|------|
 | Cache Aside | when you are limited by the capabilities of your cache provider |
 | Read Through | Solid default | |
@@ -70,3 +70,5 @@ source: hazelcast.com
 | Write behind  | When performance considerations outweigh short-term consistency | Asynchronous systems are handler to reason with
 | Refresh - ahead | when fetching data from the datastore impairs throughput| Additional component to develop deploy maintain|
 
+## References
+- https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/
