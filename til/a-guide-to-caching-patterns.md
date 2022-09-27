@@ -67,8 +67,6 @@ source: hazelcast.com
 | Cache Aside | when you are limited by the capabilities of your cache provider |
 | Read Through | Solid default | |
 | Write Through | Solid default | |
-| Write behind  | When performance considerations outweigh short-term consistency | Asynchronous systems are handler to
-reason with
-| Refresh - ahead | when fetching data from the datastore impairs throughput| Additional component to develop deploy
-maintain|
+| Write behind  | When performance considerations outweigh short-term consistency | Asynchronous systems are handler to reason with
+| Refresh - ahead | when fetching data from the datastore impairs throughput| Additional component to develop deploy maintain|
 
